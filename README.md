@@ -1,2 +1,2 @@
 # modi-promises
-Layman's companion to Promises Promises (Grier &amp; Grier)
+Companion site to "Populism in Power: Governance and Income in Modi's India" (Grier &amp; Grier)
